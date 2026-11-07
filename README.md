@@ -60,3 +60,17 @@ An interactive browser-based memory game.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PujalaPurnaChandrika&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PujalaPurnaChandrika&layout=compact&theme=tokyonight&hide_border=true)
+
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=PujalaPurnaChandrika&theme=tokyonight&hide_border=true)
