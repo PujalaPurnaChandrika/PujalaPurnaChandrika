@@ -10,6 +10,15 @@ I'm passionate about learning new technologies and improving my development skil
 
 ### 💻 Technical Skills
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 - **Programming Languages:** Java, JavaScript
 - **Frontend:** HTML5, CSS3, React.js
 - **Backend:** Core Java, JDBC, JSP, Hibernate, Spring Boot
@@ -25,6 +34,8 @@ A job portal that connects job seekers and recruiters.
 - Developed using React.js, Spring Boot and MySQL.
 - Implemented JWT authentication and role-based access.
 - Supports job posting, job applications and application status management.
+
+[View CareerLaunch – Job Portal](https://github.com/PujalaPurnaChandrika/CareerLaunch)
 
 **2. Memory Match Game**
 
